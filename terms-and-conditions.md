@@ -2,6 +2,12 @@
 
 **Last Updated:** October 22, 2025
 
+---
+
+> 📢 **Language Notice:** This document is currently available in English only. We plan to add Polish and Ukrainian translations soon. If you need assistance understanding these terms, please contact us at info@partypass.com
+
+---
+
 ## 1. Acceptance of Terms
 
 Welcome to Party Pass! These Terms and Conditions ("Terms") govern your use of the Party Pass mobile application (the "App"). By downloading, installing, or using the App, you agree to be bound by these Terms.

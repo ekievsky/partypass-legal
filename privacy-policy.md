@@ -2,6 +2,12 @@
 
 **Last Updated:** October 22, 2025
 
+---
+
+> 📢 **Language Notice:** This document is currently available in English only. We plan to add Polish and Ukrainian translations soon. If you need assistance understanding these terms, please contact us at info@partypass.com
+
+---
+
 ## Introduction
 
 Welcome to Party Pass ("we," "our," or "us"). We are committed to protecting your privacy and ensuring transparency about how we handle your information. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your personal information.
