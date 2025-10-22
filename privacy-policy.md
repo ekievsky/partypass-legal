@@ -4,7 +4,7 @@
 
 ---
 
-> 📢 **Language Notice:** This document is currently available in English only. We plan to add Polish and Ukrainian translations soon. If you need assistance understanding these terms, please contact us at info@partypass.com
+> 📢 **Language Notice:** This document is currently available in English only. We plan to add Polish and Ukrainian translations soon. If you need assistance understanding these terms, please contact us at partypass.info@gmail.com
 
 ---
 
@@ -125,7 +125,7 @@ You have the right to:
 - Opt-out of personalized advertising
 
 **To exercise these rights:**
-- Contact us at: info@partypass.com
+- Contact us at: partypass.info@gmail.com
 - Delete the App to remove all locally stored data
 - Reset your Advertising Identifier in iOS Settings
 
@@ -149,7 +149,7 @@ If you are located in the European Union, you have additional rights under GDPR:
 - Right to object to processing
 - Right to withdraw consent
 
-To exercise these rights, contact us at info@partypass.com
+To exercise these rights, contact us at partypass.info@gmail.com
 
 ### California (CCPA) Rights
 
@@ -162,7 +162,7 @@ If you are a California resident, you have rights under CCPA:
 
 **We do not sell your personal information.**
 
-To exercise these rights, contact us at info@partypass.com
+To exercise these rights, contact us at partypass.info@gmail.com
 
 ## Children's Privacy
 
@@ -174,7 +174,7 @@ Party Pass is a family-friendly app rated 4+ on the App Store. The App does not 
 - Advertisements may be displayed (unless "Remove Ads" is purchased)
 - You can disable ad tracking in iOS Settings → Privacy & Security → Tracking
 
-If you are a parent or guardian and have concerns about your child's use of the App, please contact us at info@partypass.com.
+If you are a parent or guardian and have concerns about your child's use of the App, please contact us at partypass.info@gmail.com.
 
 ## International Data Transfers
 
@@ -204,7 +204,7 @@ In the unlikely event of a data breach that affects your personal information, w
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us:
 
-**Email:** info@partypass.com
+**Email:** partypass.info@gmail.com
 
 **Response Time:** We aim to respond to all inquiries within 30 days.
 

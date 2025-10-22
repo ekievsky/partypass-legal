@@ -4,7 +4,7 @@
 
 ---
 
-> 📢 **Language Notice:** This document is currently available in English only. We plan to add Polish and Ukrainian translations soon. If you need assistance understanding these terms, please contact us at info@partypass.com
+> 📢 **Language Notice:** This document is currently available in English only. We plan to add Polish and Ukrainian translations soon. If you need assistance understanding these terms, please contact us at partypass.info@gmail.com
 
 ---
 
@@ -292,7 +292,7 @@ You agree to submit to the exclusive jurisdiction of the courts located in Polan
 ### 16.3 Dispute Resolution
 
 **Informal Resolution:**
-Before filing a formal dispute, you agree to contact us at info@partypass.com to attempt to resolve the issue informally.
+Before filing a formal dispute, you agree to contact us at partypass.info@gmail.com to attempt to resolve the issue informally.
 
 **Arbitration:**
 Any disputes not resolved informally may be subject to binding arbitration as permitted by applicable law.
@@ -322,7 +322,7 @@ Because the App is distributed through the Apple App Store, the following additi
 ### 17.3 Maintenance and Support
 
 - We, not Apple, are responsible for providing maintenance and support for the App
-- Contact us at info@partypass.com for support
+- Contact us at partypass.info@gmail.com for support
 
 ### 17.4 Warranty Claims
 
@@ -369,7 +369,7 @@ You may not assign or transfer these Terms or any rights granted under them with
 
 If you have any questions, concerns, or requests regarding these Terms, please contact us:
 
-**Email:** info@partypass.com
+**Email:** partypass.info@gmail.com
 
 **Response Time:** We aim to respond to all inquiries within 30 days.
 

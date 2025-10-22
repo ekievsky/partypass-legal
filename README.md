@@ -7,6 +7,6 @@ Legal documents for the Party Pass iOS application.
 - [Terms and Conditions](terms-and-conditions.md)
 
 ## Contact
-For privacy-related inquiries: info@partypass.com
+For privacy-related inquiries: partypass.info@gmail.com
 
 Last Updated: October 22, 2025
