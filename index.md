@@ -1,18 +1,13 @@
-# Party Pass - Legal Documents
+# Party Pass - Support
 
-Welcome to the legal documentation for Party Pass.
+Welcome to Party Pass support!
 
-## Available Documents
+## Quick Links
 
-- [Privacy Policy](privacy-policy)
-- [Terms and Conditions](terms-and-conditions)
-
-## Contact Information
-
-For questions about privacy or terms of service:
-- Email: info@partypass.com
+- [Contact & Support](contact.md)
+- [Privacy Policy](privacy-policy.md)
+- [Terms and Conditions](terms-and-conditions.md)
 
 ---
 
-*Last Updated: October 22, 2025*
-
+*Party Pass - The definitive "pass-and-play" party game collection for iOS*
